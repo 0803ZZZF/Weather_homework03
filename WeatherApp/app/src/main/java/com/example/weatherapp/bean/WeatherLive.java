@@ -1,4 +1,4 @@
-package com.example.weatherapp.bean; // 替换成你的包名
+package com.example.weatherapp.bean; 
 
 public class WeatherLive {
     private String city; // 城市名
