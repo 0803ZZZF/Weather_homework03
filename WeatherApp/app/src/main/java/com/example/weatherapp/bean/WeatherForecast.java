@@ -1,4 +1,4 @@
-package com.example.weatherapp.bean; // 替换成你的包名
+package com.example.weatherapp.bean; 
 
 import java.util.List;
 
