@@ -7,7 +7,6 @@ public class WeatherLive {
     private String winddirection; // 风向
     private String windpower; // 风力
 
-    // Getter和Setter方法
     public String getCity() { return city; }
     public void setCity(String city) { this.city = city; }
     public String getWeather() { return weather; }
