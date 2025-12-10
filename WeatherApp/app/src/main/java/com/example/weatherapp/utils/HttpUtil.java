@@ -1,4 +1,4 @@
-package com.example.weatherapp.utils; // 替换成你的包名
+package com.example.weatherapp.utils; 
 
 import okhttp3.Call;
 import okhttp3.OkHttpClient;
